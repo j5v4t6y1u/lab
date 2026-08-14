@@ -1,10 +1,22 @@
 # lab
 
-Personal experiments and quick data investigations.
+Personal experiments and data engineering snippets.
 
-## Current projects
-- ETL pipeline scratch work
-- Python + SQL snippets
+## Contents
+
+- `scripts/` – small utilities for data processing
+- `notebooks/` – exploratory analysis (WIP)
+- `notes/` – quick references and tips
+
+## Usage
+
+Clone and explore. Most scripts are self-contained and require Python 3.11+.
 
 ## Notes
-See `notes/` for random findings and setup reminders.
+
+- See `notes/pandas-tips.md` for common pandas gotchas.
+- See `notes/sql-cheatsheet.md` for handy SQL patterns.
+
+## License
+
+Private — for personal use only.
